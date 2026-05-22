@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Just relax.com</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+ <nav class="top-navbar">
+        <div class="nav-logo">
+            <img  class="logo" src="img/Just relax.com.png" alt="Logo">
+        </div>
+        <div class="nav-phrase">
+            <p>"Relajate y disfruta"</p>
+        </div>
+    </nav>
+    
+    <div class="player-container">
+        <div class="img-container">
+            <img src="https://i.pinimg.com/236x/43/f2/5b/43f25bd90df87174763733f44b0bad9e.jpg" alt="Portada" id="cover">
+        </div>
+
+        <h2 id="title">Nombre de la Canción</h2>
+        <h3 id="artist">Artista</h3>
+
+        <audio id="audio" src="music/recuerdos-susurrantes.mp3"></audio>
+
+        <div class="progress-container" id="progress-container">
+            <div class="progress" id="progress"></div>
+        </div>
+
+        <div class="navigation">
+            <button id="prev" class="action-btn">
+                <i class="fas fa-backward"></i>
+            </button>
+            <button id="play" class="action-btn action-btn-big">
+                <i class="fas fa-play" id="play-icon"></i>
+            </button>
+            <button id="next" class="action-btn">
+                <i class="fas fa-forward"></i>
+            </button>
+        </div>
+    </div>
+</body>
+</html>
