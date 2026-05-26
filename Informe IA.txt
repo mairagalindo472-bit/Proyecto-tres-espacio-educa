@@ -1,0 +1,39 @@
+Petare,26 de mayo de 2026.
+Curso de Programación Básica EDUCA.
+Alumna: Maira Galindo.
+
+--------Informe IA--------
+ 1)¿Cuáles fueron los Prompts qué utilizaste?
+Para lograr que una Inteligencia Artificial te entregue un proyecto de programación estructurado, funcional y fácil de entender, la clave está en la especificidad y en ir paso a paso.
+
+1. El Prompt Inicial: Para la estructura base
+Para obtener el esqueleto y la funcionalidad principal, necesitas definir las tecnologías, los elementos visuales que quieres y pedir "datos de prueba" para que funcione de inmediato.
+
+"Actúa como un desarrollador web experto y profesor. Necesito los códigos para crear un reproductor de música interactivo utilizando HTML, CSS y JavaScript en archivos separados. 
+El diseño debe ser moderno, limpio y centrado en la pantalla. Debe incluir:
+
+*Controles de reproducción: Play, Pause, Siguiente y Anterior.
+*Barra de progreso funcional (que avance con la canción y permita hacer clic para adelantar).
+*Información de la canción: Portada, título y artista.
+*Por favor, utiliza enlaces públicos de música e imágenes de prueba de internet para que funcione al abrir el archivo. Agrega comentarios en el código JavaScript explicando qué hace 
+cada sección de forma entendible."
+
+2. El Prompt de Diseño: Para mejorar la estética
+Una vez que la base funciona, es mejor pedir los cambios estéticos por separado para no saturar al modelo con demasiadas instrucciones a la vez.
+"Ahora quiero mejorar el diseño visual. Modifica el código CSS para que:
+
+*El fondo de la página (body) use un linear-gradient moderno y dinámico en tonos oscuros o vibrantes.
+*Añada una barra de navegación superior (top-navbar) fija en la parte de arriba de la página. Debe tener un logo/nombre de la app a la izquierda y una frase."
+
+3. El Prompt Educativo: Para aprender a personalizarlo
+Cuando el código es complejo, puedes pedir una guía paso a paso enfocada en la personalización.
+
+"El código funciona excelente. Ahora, explícame detalladamente cómo puedo reemplazar esas canciones de internet por mis propios archivos .mp3 y fotos que tengo guardados en mi computadora. 
+¿Cómo debería organizar las carpetas de mi proyecto para que el código JavaScript encuentre los archivos correctamente?"
+
+2)Explicar donde no estuviste de acuerdo con la respuesta de la IA.
+
+* Modifiqué el diseño de los colores y el contenido de la página, ya que el resultado era distinto, así que lo personalicé a mi estilo.
+* Coloqué música e imágenes relajantes ya existentes en los códigos porque lo que mostró la IA eran de prueba y encima eran músicas ficticias del género
+de electrónica, a lo cuál modifiqué esos códigos (pero sin antes preguntarle a la IA cómo colocar músicas en los códigos).
+
